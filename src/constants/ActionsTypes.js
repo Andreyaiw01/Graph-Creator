@@ -1,0 +1,9 @@
+export const OPEN_ADDFORM = "OPEN_ADDFORM";
+export const OPEN_UPDATEFORM = "OPEN_UPDATEFORM";
+export const ADD_NODE = "ADD_NODE";
+export const ADD_EDGE = "ADD_EDGE";
+export const DELETE_EDGE = "DELETE_EDGE";
+export const SET_VALUENODE1 = "SET_VALUENODE1";
+export const SET_VALUENODE2 = "SET_VALUENODE2";
+export const SELECTED_EL = "SELECTED_EL";
+export const UPDATE_NODE = "UPDATE_NODE";
